@@ -10,7 +10,7 @@ class DrawerMenu extends StatelessWidget {
       appBar: AppBar(
         title: Text('Drawer Menu')
       ),
-      
+
       drawer: Drawer(
         child: ListView(
           padding: EdgeInsets.all(0.0),
@@ -33,6 +33,7 @@ class DrawerMenu extends StatelessWidget {
                   ],
 
                 onDetailsPressed: (){},
+
 
                 decoration: BoxDecoration(
                 image: DecorationImage(
