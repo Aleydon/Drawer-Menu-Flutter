@@ -1,16 +1,22 @@
 # drawer
 
-A new Flutter project.
+Drawer Menu Example with Flutter
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+Clone this Repo and execute in your terminal: 
+  - flutter run 
+with Android Emulator Connected
+
+
+![Drawer Menu](https://github.com/Aleydon/Drawer-Menu-Flutter/commit/b3cf4bc22d4a14bf6d908d4cd5f003bb2661e9a5)
+
+
+
+
