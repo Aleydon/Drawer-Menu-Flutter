@@ -15,7 +15,7 @@ Clone this Repo and execute in your terminal:
 with Android Emulator Connected
 
 
-![Drawer Menu](https://github.com/Aleydon/Drawer-Menu-Flutter/commit/b3cf4bc22d4a14bf6d908d4cd5f003bb2661e9a5)
+![Drawer Menu](https://github.com/Aleydon/Drawer-Menu-Flutter/blob/b3cf4bc22d4a14bf6d908d4cd5f003bb2661e9a5/drawer.gif)
 
 
 
